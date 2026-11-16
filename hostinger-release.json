@@ -1,0 +1,9 @@
+{
+  "domain": "malgheventures.com",
+  "username": "u128113746",
+  "type": "static",
+  "archive": "hostinger-release.zip",
+  "sha256": "d0a1b0609bd018452644a75543716da69ad457c91798e70932c67fae8ae26d76",
+  "branch": "deploy/hostinger-20261116-112310",
+  "changes": 6
+}
