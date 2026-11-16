@@ -1,0 +1,7 @@
+{
+  "domain": "malgheventures.com",
+  "type": "static",
+  "archive": "hostinger-release.zip",
+  "sha256": "9f1d14717e1a3fc15a751599a9c86977592caf6b604c1510c7911a2d5c203948",
+  "branch": "deploy/hostinger-20261116-105742"
+}
