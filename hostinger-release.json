@@ -1,0 +1,15 @@
+{
+  "domain": "malgheventures.com",
+  "username": "u128113746",
+  "type": "php",
+  "archive": "hostinger-release.zip",
+  "sha256": "649a059d0f9c3da628299d57d54f2ab1b83633b2a208a0bb480898e23b7f8778",
+  "branch": "deploy/owner-admin-20261116-123815",
+  "release": "owner-admin",
+  "features": [
+    "Owner sign-in and protected setup",
+    "Website image and media management",
+    "Coming soon and completed projects",
+    "Private drafts and publishing"
+  ]
+}
